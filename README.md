@@ -45,6 +45,12 @@ O projeto foi desenvolvido na [Imersão IA 2025](https://www.alura.com.br) (Alur
 
 3. Digite sua pergunta e receba uma resposta com base na legislação e diretrizes da PMMG.
 
+🔐 Requisito
+
+Antes de executar, crie uma variável de ambiente chamada:
+GOOGLE_API_KEY
+Essa variável deve conter sua chave de API do Google AI Studio, necessária para utilizar o modelo Gemini 2.0.
+
 ---
 
 ## 🧪 Exemplos de Perguntas
