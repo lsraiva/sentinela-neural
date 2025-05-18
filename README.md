@@ -2,6 +2,8 @@
 
 Um chatbot jurídico-operacional com IA generativa treinado para orientar policiais militares com base no manual oficial da PMMG.
 
+Teste aqui: https://huggingface.co/spaces/lsraiva/sentinelaneural
+
 ---
 
 ## 📌 Sobre o Projeto
